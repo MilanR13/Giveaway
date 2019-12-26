@@ -68,6 +68,13 @@ body{
   .ip{max-width: 300px;
     margin-top: 50%;}
   }
+@media (max-width: 500px) {                  
+    .wbox{width:300px;height:75px;}
+    .txtc{font-size: 15px;}
+    .ip{max-width: 250px;
+      margin-top: 90%;}
+    .registration-form{max-width: 300px;}
+    }
 
 
 /*
