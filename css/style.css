@@ -74,6 +74,7 @@ body{
     .ip{max-width: 250px;
       margin-top: 80%;}
     .registration-form{max-width: 300px;}
+    .animated-button span i {font-size: 15px;}
     }
 
 
